@@ -1,4 +1,4 @@
-# TroubleshootHusband 检查
+# Troubleshoot Husband 检查老公
 你觉得你老公出轨了吗？来检查一下他的QQ聊天记录
 
 # 运行环境
@@ -31,4 +31,4 @@
 4)允许多昵称(解决前后时间昵称不同问题)
 
 # 特别鸣谢
-[我老公](https://github.com/schlibra)
+@[我老公](https://github.com/schlibra)
