@@ -30,4 +30,5 @@
 3)数据可视化
 4)允许多昵称(解决前后时间昵称不同问题)
 
-# [我老公](https://github.com/schlibra)
+# 特别鸣谢
+[我老公](https://github.com/schlibra)
